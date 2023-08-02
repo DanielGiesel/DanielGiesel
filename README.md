@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielGiesel
+- 👋 Hi, I’m Yoschy
 - 👀 I’m interested in Data-Analytics
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ~> dgiesel@t-online.de
